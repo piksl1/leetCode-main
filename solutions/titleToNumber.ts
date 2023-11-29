@@ -1,8 +1,8 @@
 /*
 171. Excel Sheet Column Number 
 Given a string columnTitle that represents the column title as appears in an Excel sheet, return its corresponding column number.
-Topic 
-Math-String
+Topic : Math-String
+
  */
 function titleToNumber(columnTitle: string): number {
   let result: number = 0;
